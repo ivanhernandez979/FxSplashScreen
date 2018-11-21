@@ -49,7 +49,7 @@ public class Main extends Application {
 			scene.getStylesheets().add("https://fonts.googleapis.com/css?family=Dokdo");
 
 			// adding Custom fonts
-			Font.loadFont(getClass().getResourceAsStream("assets/Sacramento-Regular.ttf"), 20);
+			Font.loadFont(getClass().getResourceAsStream("Sacramento-Regular.ttf"), 20);
 
 			stage.initStyle(StageStyle.UNDECORATED);
 			stage.setScene(scene);
