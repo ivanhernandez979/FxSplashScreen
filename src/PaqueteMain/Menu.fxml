@@ -21,7 +21,7 @@
             </AnchorPane>
          </top>
          <center>
-            <Label styleClass="logo" stylesheets="@application.css" text="Think Different" textFill="#e0e0e0" BorderPane.alignment="CENTER">
+            <Label styleClass="logo" stylesheets="@application.css" text="Think Different" textFill="#26a69a" BorderPane.alignment="CENTER">
                <font>
                   <Font size="48.0" />
                </font>
