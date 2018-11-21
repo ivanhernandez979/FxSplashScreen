@@ -46,7 +46,7 @@ public class Main extends Application {
 			Scene scene = new Scene(pane);
 
 			// adding Google fonts
-			scene.getStylesheets().add("https://fonts.googleapis.com/css?family=Dokdo");
+			scene.getStylesheets().add("https://fonts.googleapis.com/css?family=Homemade+Apple");
 
 			// adding Custom fonts
 			Font.loadFont(getClass().getResourceAsStream("Sacramento-Regular.ttf"), 20);
